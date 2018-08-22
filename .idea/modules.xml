@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Smartprogress.iml" filepath="$PROJECT_DIR$/Smartprogress.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task1/Task1.iml" filepath="$PROJECT_DIR$/Task1/Task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task2/task2.iml" filepath="$PROJECT_DIR$/task2/task2.iml" />
     </modules>
   </component>
 </project>
